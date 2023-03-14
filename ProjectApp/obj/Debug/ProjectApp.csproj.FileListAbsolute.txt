@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe.config
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\ProjectApp.pdb
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.LoginForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.Properties.Resources.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.pdb
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\ZstdNet.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\ProjectApp\ProjectApp\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe.config
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.CopyComplete
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.RegisterForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.UserActionsForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.LoadPicForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.AdminForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.DeleteUserForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.MonitoringForm.resources
+C:\Users\User\source\repos\ProjectApp\ProjectApp\obj\Debug\ProjectApp.AdminMonitoringForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.AssemblyReference.cache
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.SuggestedBindingRedirects.cache
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.AdminForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.AdminMonitoringForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.DeleteUserForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.LoadPicForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.LoginForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.MonitoringForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.Properties.Resources.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.RegisterForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.UserActionsForm.resources
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.GenerateResource.cache
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.CoreCompileInputs.cache
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.pdb
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe.config
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\ProjectApp.exe
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\ProjectApp.pdb
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\MySql.Data.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\Google.Protobuf.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\ZstdNet.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\System.Memory.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\System.Buffers.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\K4os.Compression.LZ4.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\K4os.Hash.xxHash.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\System.Numerics.Vectors.dll
+D:\Технологии программирования\ProjectApp\ProjectApp\bin\Debug\MySql.Data.xml
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.exe.config
+D:\Технологии программирования\ProjectApp\ProjectApp\obj\Debug\ProjectApp.csproj.CopyComplete
